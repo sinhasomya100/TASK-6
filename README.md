@@ -86,5 +86,5 @@ Feel free to explore the queries or reach out for any suggestions.
 
 ---
 
-> 🔗 **Internship Project Repo:** [GitHub Link Here]
+> 🔗 www.linkedin.com/in/somyasinha100
 
