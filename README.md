@@ -1,6 +1,5 @@
 # 🧠 Task 6 - Sales Trend Analysis using SQL (Online Sales Dataset)
 
-Welcome to **Task 6** of my Data Analyst Internship Project!  
 In this task, I performed a **Sales Trend Analysis** using SQL on a dataset named `online_sales`.  
 The goal was to uncover key sales insights and trends from an e-commerce-like dataset of 100 orders.
 
