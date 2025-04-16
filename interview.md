@@ -32,4 +32,3 @@ ORDER BY is used to sort the final result set by one or more columns in ascendin
 
 7. How do you get the top 3 months by sales?
 First group the data by month and calculate total sales using SUM(quantity * price). Then sort it in descending order using ORDER BY and limit the results to 3 using LIMIT 3 to get the top 3 months.
-
